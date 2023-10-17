@@ -3,6 +3,8 @@ This project, developed as part of the "TDP013" course at Linköping University,
 
 I've also focused on testing and code coverage. I used the Mocha testing framework to ensure that the code works as intended and C8 for tracking how much of the code is tested. This project is primarily a learning exercise with practical application and a focus on code quality.
 
+The site is designed to be accessible on both desktop and mobile devices, offering a responsive and user-friendly experience. However, it's important to note that live chatting functionality is exclusively available on the desktop version of the platform.
+
 A notable aspect of this project is that it was primarily developed using callbacks, aligning with a specific goal of the course. While callbacks were the focus, there were cases where the use of the `await` keyword might have been more suitable, demonstrating a balance between educational objectives and practical considerations.
 ### Installation
 Clone the repository with the following command:
