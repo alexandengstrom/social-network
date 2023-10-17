@@ -58,3 +58,14 @@ To create code coverage, run the following command:
 cd backend
 npm run coverage
 ```
+
+### Images
+When a user opens the feed:
+![Screenshot from 2023-10-17 16-14-51](https://github.com/alexandengstrom/social-network/assets/123507241/c1d3229c-c682-4b07-b5ef-cd9bafbc2f01)
+
+Chatting with other users:
+![Screenshot from 2023-10-17 16-17-09](https://github.com/alexandengstrom/social-network/assets/123507241/af0ba177-e243-48a7-b9a3-be58b84ccaad)
+
+
+
+
