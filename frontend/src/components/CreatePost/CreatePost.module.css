@@ -1,0 +1,29 @@
+.create-post-button {
+  width: 100px;
+}
+
+.in-blur {
+  background-color: inherit;
+  transition: 0.5s;
+}
+
+.in-focus {
+  background-color: white;
+  transition: 0.5s;
+}
+
+.create-post-icon {
+  width: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.create-post-button {
+  width: 100px;
+  font-size: 1.4rem;
+}
+
+.image-preview {
+  width: 100%;
+}

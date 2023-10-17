@@ -1,0 +1,24 @@
+.friend-is-online {
+  width: 10px;
+  height: 10px;
+  background-color: green;
+  border-radius: 50%;
+}
+
+.friend-is-offline {
+  width: 10px;
+  height: 10px;
+  background-color: gray;
+  border-radius: 50%;
+}
+
+.friend-online-status {
+  align-items: center;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.friend-online-status:hover {
+  background-color: var(--blue);
+  color: var(--white);
+}

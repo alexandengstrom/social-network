@@ -1,0 +1,22 @@
+.user-card-button-container {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-card-button-container button {
+  justify-content: center;
+  align-items: center;
+}
+
+.user-card-link {
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+@media (max-width: 800px) {
+  .user-card-button-container {
+    width: 100%;
+  }
+}

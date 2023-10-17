@@ -1,0 +1,28 @@
+.not-friend-message {
+  margin-top: 100px;
+  font-size: 1.3rem;
+}
+
+.lock-icon {
+  width: 50px;
+  height: 50px;
+  margin-right: 50px;
+}
+
+.menu-underline-not-choosen {
+  height: 10px;
+  width: 100%;
+  background-color: var(--light-blue);
+}
+
+.menu-underline-choosen {
+  height: 10px;
+  width: 100%;
+  background-color: var(--blue);
+}
+
+.menu-option-h2 {
+  font-size: 1.4rem;
+  color: var(--blue);
+  cursor: pointer;
+}

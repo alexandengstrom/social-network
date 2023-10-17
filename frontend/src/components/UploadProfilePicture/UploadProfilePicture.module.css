@@ -1,0 +1,8 @@
+.hidden-input {
+  display: none;
+}
+
+.upload-image-link {
+  font-size: 0.8rem;
+  color: var(--black);
+}

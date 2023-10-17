@@ -1,0 +1,31 @@
+.biography-container {
+  width: 450px;
+  background-color: var(--light-blue);
+  min-height: 200px;
+  box-sizing: border-box;
+}
+
+.edit-biography {
+  background-color: var(--white);
+  width: 370px;
+}
+
+.edit-biography-button {
+  width: 100px;
+  height: 40px;
+  font-size: 1.3rem;
+  justify-self: right;
+}
+
+@media (max-width: 800px) {
+  .biography-container {
+    width: 100%;
+    padding: 20px;
+    height: 100%;
+  }
+
+  .edit-biography {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}

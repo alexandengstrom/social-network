@@ -1,0 +1,17 @@
+.chat-message-left {
+  background-color: var(--lightest-blue);
+  width: 250px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.chat-message-right {
+  background-color: var(--light-blue);
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  padding: 10px;
+  margin-left: 50px;
+  margin-bottom: 5px;
+}
